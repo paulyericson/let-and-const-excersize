@@ -1,0 +1,8 @@
+- What is the difference between var and let?
+	- With let, you can't redeclare and let's scope is in the block whereas var's scope is the window.console (function)
+- What is the difference between var and const?
+	- With const you can't reassign or redeclare the variable and const's scope is in the block whereas var is in the console window (function)
+- What is the difference between let and const?
+	- with let you can reassign the variable 
+- What is hoisting?
+	- Hoisting is assigning a variable using var bellow the function or when it is referenced in the code. Using var puts that variable at the top of the code. 
